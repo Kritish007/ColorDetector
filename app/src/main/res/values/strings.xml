@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Color Detector</string>
+    <string name="title_activity_main4">MyScan</string>
+    <string name="action_settings">Sign Off</string>
+    <string name="title_activity_main5">MyBattery</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main3">Menu</string>
+    <string name="title_activity_main6">Activity</string>
+    <string name="title_activity_main7">MyTemperature</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="current_status">Current Status</string>
+    <string name="new_username">New UserName</string>
+    <string name="new_password">New Password</string>
+    <string name="status">Status:</string>
+
+</resources>
